@@ -1,0 +1,3 @@
+Sequential run time: 11.1443346
+10 threads run time: 11.073778699999998
+10 processes run time: 7.8521675

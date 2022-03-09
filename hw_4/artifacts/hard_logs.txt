@@ -1,0 +1,7 @@
+21:34:16,137 __main__ INFO Receive "aabb"
+21:34:21,400 __main__ INFO Receive cyphered"nnoo"
+21:34:23,133 __main__ INFO Receive "nnoo"
+21:34:26,413 __main__ INFO Receive cyphered"aabb"
+21:34:48,854 __main__ INFO Receive "foobar"
+21:34:48,854 __main__ INFO Receive cyphered"sbbone"
+21:34:51,290 __main__ INFO Exit
